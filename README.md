@@ -1,4 +1,4 @@
-ruby_server_timeout
+Ruby server timeout 確認
 ===
 
 
